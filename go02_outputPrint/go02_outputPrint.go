@@ -1,4 +1,8 @@
 package main
+/*
+Output program ini masih ada yang salah, dan perlu perbaikan.
+Semua tips utk perbaikan ada di video https://youtu.be/7mid-pK5onU
+*/
 
 import "fmt"
 
